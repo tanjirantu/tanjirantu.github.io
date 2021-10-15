@@ -1,16 +1,21 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+# excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+## Hi, I am Tanjir Antu.
 
-If you have a question about him or else, just send a letter to him.
+I am a professional software engineer with 3 years of experience in Full Stack development. I prefer JavaScript and MongoDB as my primary tool but not bound to it. I can adopt to any tools and technologies.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+##### Tools & Technologies I used:
+
+- JavaScript, TypeScript, Hapi.js, Express.js, React.js, Next.js, ASP. NET, Laravel, Socket.IO, C#, PHP, Java
+- GraphQL, Rest API
+- MongoDB, MySQL, MSSQL, OracleDB, Radis
+- Git, Jenkins CI/CD, Docker, AWS EC2, Nginx, Cloudflare
 
 **may u needs ✨**
 
