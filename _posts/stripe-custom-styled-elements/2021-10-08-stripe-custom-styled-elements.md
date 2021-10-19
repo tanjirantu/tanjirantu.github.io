@@ -6,7 +6,7 @@ date: 2021-10-08 20:13:51 GMT+0600
 tags: [react]     # TAG names should always be lowercase
 ---
 
-## Stripe: Custom Styled Card Elements
+<!-- ## Stripe: Custom Styled Card Elements -->
 
 If you are not satisfied with the pre styled components that Stripe provides then this post is for you.
 
@@ -192,7 +192,7 @@ export default SplitForm;;
 ```
 Now load your browser. You should have a custom checkout form that looks like this which is actually without any styles.
 
-![Stripe-Card-Component](/assets/images/stripe-card-example.PNG)
+![Stripe-Card-Component](screenshot.png)
 
 This is not a good looking form since we did not add any styling to the form. We are going to do that after we make the card payment work.
 
