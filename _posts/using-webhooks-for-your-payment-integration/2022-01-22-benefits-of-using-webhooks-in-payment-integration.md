@@ -8,7 +8,7 @@ tags: [misc] # TAG names should always be lowercase
 
 #### What are webhooks?
 
-<span style="font-size:1.3em;font-weight:400;">Webhooks, an approach used to handle unpredictable state of an event. It is one of the techniques used to design <strong>event driven</strong> api.</span>
+Webhooks, an approach used to handle unpredictable state of an event. It is one of the techniques used to design `event driven` api.
 
 Let's say we need a status of a perticular resource. What we do in this scenario is we make a request to the api, the api might retrive the information interacting with a database then return respond back to the client.
 
@@ -16,7 +16,7 @@ What if the resourse is not in a complete state? The client would have to keep s
 
 This is one of the problems that event driven api can solve.
 
-_There are a lot of detailed articles on webhooks, the purpose of this article to see why and when we need use it in a payment integration so that we can handle some cases which might need taken care of depending on the business model. This is not a detailed tutorial on how to use payment methods whit webhooks from the scratch rather give you an overview of the benefits of using webhooks with an example._
+_There are a lot of detailed articles on webhooks, the purpose of this article to see why and when we need use it in a payment integration so that we can handle some cases which might need taken care of depending on the business model. This is not a detailed tutorial on how to use payment methods whith webhooks from the scratch rather give you an overview of the benefits of using webhooks with an example._
 
 ##### Some common cases in payment:
 
