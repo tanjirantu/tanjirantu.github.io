@@ -10,7 +10,7 @@ tags: [misc] # TAG names should always be lowercase
 
 Webhooks, an approach used to handle unpredictable state of an event. It is one of the techniques used to design `event driven` api.
 
-Let's say we need a status of a perticular resource. What we do in this scenario is we make a request to the api, the api might retrive the information interacting with a database then return respond back to the client.
+Let's say we need a status of a perticular resource. What we do in this scenario is we make a request to the api, the api might retrive the information interacting with a database then respond back to the client.
 
 What if the resourse is not in a complete state? The client would have to keep sending request until the state is completed. This is highly inefficient right? If the status change is unpredictable then we might lose a lot of our resources both on the client side and on the server.
 
