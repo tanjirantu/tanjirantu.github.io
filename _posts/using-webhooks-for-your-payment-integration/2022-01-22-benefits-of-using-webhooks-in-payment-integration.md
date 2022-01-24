@@ -35,6 +35,8 @@ In our typical payment integration with stripe we create a server endpoint and s
 ```javascript
 app.post("/create-checkout-session", async (req, res) => {
 	const session = await stripe.checkout.sessions.create({
+		//we can pass a metadata object containing information about the order which can be retrived from the session
+		// metadata: {...},
 		line_items: [
 			{
 				price: "{{PRICE_ID}}",
