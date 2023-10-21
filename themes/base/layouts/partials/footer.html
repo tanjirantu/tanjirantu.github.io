@@ -1,0 +1,14 @@
+<footer class="text-center py-5">
+    <p>
+        {{ with .Site.Params.footer }}
+            {{ . }}
+        {{ else }}
+        © 2021 <a href="https://github.com/tanjirantu" target="_blank">Tanjir Antu</a>.
+        {{ end }}
+    </p>
+</footer>
+
+{{ with .Site.Params.GoogleSearch }}
+<script async src="https://cse.google.com/cse.js?cx={{ . }}"></script>
+<gcse:searchresults-only></gcse:searchresults-only>
+{{ end }}
