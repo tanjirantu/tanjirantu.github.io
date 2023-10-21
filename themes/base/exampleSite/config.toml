@@ -1,11 +1,11 @@
-baseURL = "https://example.com/blogra/"
+baseURL = "https://example.com/"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
 
-theme         = "BlogRa"
+theme         = "base"
 languageCode  = "en-us"
-title         = "BlogRa"
+title         = "Base"
 
 disqusShortname = ""
 
@@ -20,13 +20,6 @@ disqusShortname = ""
     mermaid         = false   # best to enable this in the front matter of a page
 
     # Social Media Params
-    facebook   = "https://www.facebook.com/DevHacker-2351204168278028"
-    twitter    = ""
-    youtube    = "https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw"
-    instagram  = ""
-    github     = "https://github.com/rafed"
-    pinterest  = ""
-    linkedin   = "https://www.linkedin.com/in/rafed-m-yasir/"
 
 
 # Configure the site menu here

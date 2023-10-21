@@ -1,17 +1,17 @@
-baseURL = "https://example.com/blogra/"
+baseURL = "https://example.com"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
 
-theme         = "BlogRa"
+theme         = "base"
 languageCode  = "en-us"
-title         = "BlogRa"
+title         = "A Dev's Notebook"
 
 disqusShortname = ""
 
 [params]
-    description     = "The Ultimate Tech Blogging Theme"
-    contactEmail    = "your-email@domain.com"
+    description     = ""
+    contactEmail    = "tanjirantu@gmail.com"
     footer          = ""
     googleSearch    = "google-cse-key"
     googleAnalytics = ""      # Google Analytics v4

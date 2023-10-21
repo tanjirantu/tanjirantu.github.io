@@ -1,9 +1,9 @@
-baseURL = "https://example.com/home/"
+baseURL = "https://example.com"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
 
-theme         = "BlogRa"
+theme         = "base"
 languageCode  = "en-us"
 title         = "A Dev's Notebook"
 
