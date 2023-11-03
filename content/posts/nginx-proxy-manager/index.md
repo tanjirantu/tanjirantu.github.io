@@ -32,13 +32,12 @@ services:
 
 ```
 
-Fireup the container
-SSH into your server and
+Start the container in detach mode
 {{< highlight bash >}}
 docker-compose up -d
 {{< /highlight >}}
 
-Now go to this url: `http://your_server_ip_address:81` Login with the default credentials...
+Now go to this url: `http://your_server_ip_address:81` Login with the default credentials. Keep in mind that you have to allow `port 81` from your firewall settings.
 
 ```
 Email address: admin@example.com
