@@ -1,4 +1,4 @@
-baseurl = "https://tanjirantu.github.io"
+baseurl = "https://blog.codingdroid.xyz"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 # Using theme as git submodule
