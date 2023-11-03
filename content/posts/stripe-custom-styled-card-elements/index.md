@@ -2,7 +2,7 @@
 title: Stripe Custom Styled Card Elements
 date: 2021-10-08
 tags: ["reactjs", "frontend"]
-image: stripe-dropin-forms.png
+# image: stripe-dropin-forms.png
 ---
 
 <!-- ## Stripe: Custom Styled Card Elements -->

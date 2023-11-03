@@ -2,7 +2,7 @@
 title: Benefits of using Webhooks in Payment Integration
 date: 2022-01-21
 tags: ["backend"]
-image: md-alt.png
+# image: md-alt.png
 ---
 
 #### What are webhooks?

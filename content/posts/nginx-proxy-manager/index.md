@@ -1,9 +1,9 @@
 ---
 title: "Nginx Proxy Manager to the rescue!"
-date: 2020-12-23
+date: 2023-09-23
 description: "Managing web servers gets simplified"
 tags: ["backend", "devops"]
-image: nginx-proxy-manager.png
+# image: nginx-proxy-manager.png
 ---
 
 Nginx Proxy Manager is a web-based tool that simplifies the management of virtual hosts and reverse proxies in Nginx. <!--more-->Using this tool can save a lot of time and effort, additionally it let's you install custom SSL / LetsEncrypt certificate directly from the web.

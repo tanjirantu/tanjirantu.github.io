@@ -7,7 +7,9 @@ tags: [frontend]
 ---
 
 If you are working with an API which uses OAuth for authentication then you need to some way of refreshing your access token when it is expired to make sure a uninterrupted user experience. And for front-end application it is very important.
-Axios is a promise based HTTP client which comes with a lot of great feature. Interceptors is one of the great feature we are going to talk about. It gives you the ability to intercept requests or responses before they are handled by `then` or `catch` block. That means you can easily modify it before they reach their destination.
+Axios is a promise based HTTP client which comes with a lot of great feature.
+<!--more-->
+ Interceptors is one of the great feature we are going to talk about. It gives you the ability to intercept requests or responses before they are handled by `then` or `catch` block. That means you can easily modify it before they reach their destination.
 
 In your react app create a config file named `axiosConfig`.js and add these codes below.
 

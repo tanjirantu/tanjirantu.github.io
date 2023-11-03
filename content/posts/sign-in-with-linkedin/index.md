@@ -2,7 +2,7 @@
 title: Sign In with LinkedIn
 date: 2021-05-25
 tags: [music, reactjs, frontend]
-image: linkedin.jpg
+# image: linkedin.jpg
 ---
 
 Implementation of LinkedIn login in your application is pretty straight forward. There are a few solutions out there. Some are using passport.js which I very much dislike since it loads a lots of unwanted modules you don't need and it is intended for the use of Express.js based frameworks which uses middleware approach. If you use some other frameworks then it will not be of much help.
