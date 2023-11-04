@@ -7,9 +7,6 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
-[[module.imports]]
-  path = "github.com/halogenica/beautifulhugo"
-
 [Params]
   homeTitle = "dev --help"
 
