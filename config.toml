@@ -16,8 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [module]
   [[module.imports]]
-    path = "beautifulhugo"
-    disable=false
+    path = "github.com/halogenica/beautifulhugo"
 
 [Params]
   homeTitle = "dev --help" # Set a different text for the header on the home page
