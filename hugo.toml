@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [module]
   [[module.imports]]
-    path = "github.com/halogenica/beautifulhugo"
+    path = "beautifulhugo"
     disable=false
 
 [Params]
