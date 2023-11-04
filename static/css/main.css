@@ -13,8 +13,8 @@ body {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: black;
-    color: white;
+    background: #090A0C;
+    color: #F8F9FA;
   }
 }
 
@@ -182,7 +182,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #000 !important;
+  background: #090A0C !important;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -454,7 +454,7 @@ footer div.disclaimer {
 
 @media (prefers-color-scheme: dark) {
   footer {
-    background: #444;
+    background: #090A0C;
     border-top: 1px #AAA solid;
   }
 

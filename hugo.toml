@@ -1,6 +1,6 @@
 baseurl = "https://blog.codingdroid.xyz"
 DefaultContentLanguage = "en"
-title = 'Dev Notebook'
+title = 'dev --help'
 # Using theme as git submodule
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -14,8 +14,8 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
-#[Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+[Params]
+  homeTitle = "dev --help" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
 #  mainSections = ["post","posts"]
 #  logo = "img/avatar-icon.png" # Expecting square dimensions

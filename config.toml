@@ -1,13 +1,14 @@
 baseurl = "https://blog.codingdroid.xyz"
 languageCode = 'en-us'
-title = 'Dev Notebook'
+title = 'dev --help'
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
-
+[Params]
+  homeTitle = "dev --help"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
